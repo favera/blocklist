@@ -57267,6 +57267,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.redditgifts.com
 0.0.0.0 www.redditmedia.com
 0.0.0.0 www.redditstatic.com
+
+#globo 
+0.0.0.0 globo.com
+0.0.0.0 www.globo.com
+0.0.0.0 ns03.globo.com
+0.0.0.0 ns04.globo.com
+0.0.0.0 ns02.globo.com
+0.0.0.0 ns01.globo.com
+
 # blacklist
 #
 # The contents of this file (containing a listing of additional domains in
