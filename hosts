@@ -22140,12 +22140,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 www3.doubleclick.com
 0.0.0.0 www.doubleclick.com
 0.0.0.0 www.bt.emsecure.net
-# 0.0.0.0  www.youtube-nocookie.com #[affects various videos]
+0.0.0.0  www.youtube-nocookie.com #[affects various videos]
 # [Google / DoubleClick][AS15169][66.249.64.0 - 66.249.95.255]
 0.0.0.0 ad.rs.doubleclick.net
 # [Google / DoubleClick][AS15169][72.14.192.0 - 72.14.255.255]
-# 0.0.0.0  s0.2mdn.net #[affects video stream]
-# 0.0.0.0  static.2mdn.net #[affects Youtube]
+0.0.0.0  s0.2mdn.net #[affects video stream]
+0.0.0.0  static.2mdn.net #[affects Youtube]
 0.0.0.0 ad-apac.doubleclick.net
 0.0.0.0 gan.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
